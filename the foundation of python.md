@@ -192,5 +192,3 @@ Answer = True
 变量`Answer`是一个布尔值`True`。
 
 
-
-啦啦啦追我呀，追不上我吧
